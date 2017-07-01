@@ -19,7 +19,7 @@ html {
   -webkit-box-direction: normal;
       -ms-flex-direction: column;
           flex-direction: column;
-  top: 50%;
+  top: 300px;
   left: 50%;
   /* note: the translateZ(0) enables hardware accel */
   /* without it, there is a weird gap between panels */
